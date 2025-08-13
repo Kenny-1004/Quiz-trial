@@ -48,7 +48,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    transform: translate(-50rem, -20rem);
+    transform: translate(-50rem, -50rem);
     background: pink;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
     border-radius: 20px;
@@ -60,7 +60,7 @@
     display: flex;
     justify-self: center;
     align-self: center;
-    transform: translate(0, -20rem);
+    transform: translate(0, -50rem);
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -74,6 +74,7 @@
     border: none;
     padding: 10px;
     border-radius: 10px;
+    color: white;
     background: rgb(255, 231, 231);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
