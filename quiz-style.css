@@ -76,7 +76,6 @@ body{
     border: none;
     border-radius: 10px;
     color: white;
-    transform: translateX(10rem);
     text-transform: uppercase;
     font-weight: 500;
     background: rgb(255, 216, 223);
