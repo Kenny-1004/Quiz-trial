@@ -48,7 +48,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    transform: translate(-50rem, -50rem);
+    transform: translate(-50rem, -25rem);
     background: pink;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
     border-radius: 20px;
